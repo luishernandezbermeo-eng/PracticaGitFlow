@@ -48,3 +48,13 @@ Se utiliza la metodología Git Flow con las siguientes ramas:
 ##  Evidencias
 - Pull Request de feature/readme hacia develop
 - Versión etiquetada v1.0.0
+
+## Flujo de trabajo Git
+
+Se utiliza la metodología Git Flow con las siguientes ramas:
+
+- main: contiene la versión final del proyecto.
+- develop: rama de integración de cambios.
+- feature: se usó la rama feature/documentacion-extra para trabajar nuevas funcionalidades.
+- release: se creó la rama release/v1.0.0 para preparar la versión final.
+- hotfix: se usaría una rama como hotfix/readme-typo para corregir errores urgentes en producción.
