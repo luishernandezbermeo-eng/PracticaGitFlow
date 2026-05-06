@@ -26,7 +26,7 @@ Este proyecto permite validar que el archivo README.md cumpla con una estructura
 - Autores: OK
 
 ## Autor
-- Luis Hernández - [@luishernandezbermeo-eng](https://github.com/luishernandezbermeo-eng)
+- Luis Miguel Hernández - [@luishernandezbermeo-eng](https://github.com/luishernandezbermeo-eng)
 ##  Flujo de trabajo Git
 Se utiliza la metodología Git Flow con las siguientes ramas:
 - main
