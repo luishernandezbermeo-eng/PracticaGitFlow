@@ -22,7 +22,7 @@ Este proyecto permite validar que el archivo README.md cumpla con una estructura
 1. Ejecuta la validación del README: npm run validate:readme
 2. Verifica que todas las secciones estén en [OK]
 3. HHH
-
+4. sirve para estudiar
 ##  Autores
 - Luis Hernández - [@luishernandezbermeo-eng](https://github.com/luishernandezbermeo-eng)
  develop
