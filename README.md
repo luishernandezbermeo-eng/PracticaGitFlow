@@ -3,6 +3,7 @@
 
 ##  Descripción
 Este proyecto se realiza con el fin de practicar el flujo de trabajo Git Flow y entender la gestión de ramas en un entorno de desarrollo.
+la intencion de esto es aprender algo mas interesante 
 
 ##  Instalación
 1. Clonar el repositorio
