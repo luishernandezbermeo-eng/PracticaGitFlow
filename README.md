@@ -10,12 +10,22 @@ la intencion de esto es aprender algo mas interesante
 2. Entra a la carpeta: cd PracticaGitFlow
 3. Instala las dependencias: npm install
 
+ feature/documentacion-extra
 ## Uso
 Este proyecto permite validar que el archivo README.md cumpla con una estructura adecuada.
 
 ### Pasos para usarlo:
 1. Ejecuta el siguiente comando:
    npm run validate:readme
+=======
+##  Uso
+1. Ejecuta la validación del README: npm run validate:readme
+2. Verifica que todas las secciones estén en [OK]
+3. HHH
+
+##  Autores
+- Luis Hernández - [@luishernandezbermeo-eng](https://github.com/luishernandezbermeo-eng)
+ develop
 
 2. El sistema mostrará el estado de cada sección del README.
 
